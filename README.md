@@ -42,5 +42,5 @@ You can browse all my repos on my [GitHub profile](https://github.com/JackG02).
 ---
 
 💼 **Want to connect?**  
-- [LinkedIn](https:https://linkedin.com/in/jack-gillard)  
+- [LinkedIn](https://linkedin.com/in/jack-gillard)  
 - [Email Me](mailto:gillardj02@gmail.com)
