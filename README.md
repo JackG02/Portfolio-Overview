@@ -26,13 +26,14 @@ A browser-based Wordle game built with **vanilla JavaScript, HTML, and CSS**.
 
 ---
 
-## Writing Motivator  
-**Repo:** [Writing-Motivator](https://github.com/JackG02/Writing-Motivator)  
-A writing app that rewards users with cat/dog images & fun facts for hitting word goals.  
+## Drawing Board – Interactive Canvas App  
+**Repo:** [Drawing-Board](https://github.com/JackG02/Drawing-Board)  
 
-- Fetches images from public APIs  
-- Tracks word count  
-- Fun, gamified writing experience  
+A lightweight **JavaScript-based drawing app** using HTML5 Canvas.  
+
+Freehand drawing & color picker  
+Adjustable brush sizes  
+Clear/reset functionality  
 
 ---
 
@@ -41,6 +42,6 @@ You can browse all my repos on my [GitHub profile](https://github.com/JackG02).
 
 ---
 
-💼 **Want to connect?**  
+**Want to connect?**  
 - [LinkedIn](https://linkedin.com/in/jack-gillard)  
 - [Email Me](mailto:gillardj02@gmail.com)
