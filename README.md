@@ -16,13 +16,14 @@ A system that helps students discover minors and academic pathways based on thei
 
 ---
 
-## Wordle Clone  
-**Repo:**   
-A browser-based Wordle game built with **vanilla JavaScript, HTML, and CSS**.  
+## Wordle – JavaScript Word Puzzle Game  
+**Repo:** [Wordle](https://github.com/JackG02/Wordle)  
 
-- Dynamic tile creation  
-- Keyboard input support  
-- Win/loss detection  
+A **vanilla JavaScript Wordle clone** where players guess a 5-letter word in 6 tries.  
+
+Interactive grid & keyboard input  
+Dynamic color feedback  
+Simple win/loss detection  
 
 ---
 
