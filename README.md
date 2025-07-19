@@ -38,6 +38,17 @@ Clear/reset functionality
 
 ---
 
+## 💣 Minesweeper – JavaFX Desktop Game  
+**Repo:** [MineSweeper](https://github.com/JackG02/MineSweeper)  
+
+A **Minesweeper clone built from scratch** using JavaFX and FXML layouts.  
+
+Interactive grid with reveal & flag actions  
+FXML-based UI + Java controllers  
+Event-driven gameplay & win/loss detection  
+
+---
+
 ## More Projects  
 You can browse all my repos on my [GitHub profile](https://github.com/JackG02).  
 
